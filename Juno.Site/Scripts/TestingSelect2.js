@@ -1,4 +1,4 @@
 $(function () {
-	Juno.select2helpers.setupStandardSelect2s();
-	Juno.select2helpers.setupHelp();
+	Roblox.select2helpers.setupStandardSelect2s();
+	Roblox.select2helpers.setupHelp();
 })
